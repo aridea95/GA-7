@@ -1,0 +1,16 @@
+1. Create summary about today lesson
+- Git Merge and Git branch_name
+ Merge merupakan command untuk menggabungkan satu atau lebih branch ke branch master. Penggabungan ini dilakukan untuk memudahkan sinkronisasi dari file branch ke file master.
+ Branch merupakan percabangan dari master untuk menyimpan file. 
+
+- HTML dan CSS
+ HTML merupakan singkatan dari HyperText Markup Language yang digunakan untuk membangun sebuah website.
+ HTML terdiri dari 4 bagian penting, yaitu header, menu, article, dan footer.
+ CSS merupakan singkatan dari Cascading Style Sheet yang digunakan untuk mendesain sebuah website.
+ CSS terdiri dari selector, properties, dan values.
+ Ketika HTML sudah terbentuk, CSS digunakan untuk mendesain website tersebut.
+
+2. Teori :
+untuk apa fungsi dari command :
+git checkout -b <branch_name> memiliki fungsi untuk membuat branch baru pada branch master dan masuk ke branch baru tersebut.
+git pull origin <branch_name> berfungsi untuk menarik branch dari repo ke direktori lokal.

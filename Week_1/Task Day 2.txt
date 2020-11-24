@@ -1,0 +1,33 @@
+1. Create summary about today lesson
+Hari ini mempelajari tentang Penggunaan Git khususnya Gitlab. Lalu pembuatan akun Github dan Gitlab.
+Akun Gitlab dan akun Github dapat dihubungkan satu sama lain. Serta dapat dikoneksikan ke lokal server
+menggunakan Git Bash. VisCode akan terhubung dengan Gitlab/Github. Ini memudahkan proses pemindahan
+file/data dari Gitlab/Github ke lokal server dan sebaliknya. 
+Ada beberapa command yang digunakan pada hari ini, yaitu
+    git init
+    git remote add origin
+    git push origin master
+    git clone
+    git add
+    clear
+Masing-masing command memiliki fungsi masing-masing.
+
+2. Github : Make repo dan push :
+a.) Tugas day 1
+b.) Tugas day 2
+
+3. Teori : 
+- apa itu git ?
+Git adalah sebuah tool yang sering digunakan dalam proyek pengembangan software dan banyak digunakan oleh programer.
+- untuk apa fungsi dari command :
+    + git init 
+        digunakan untuk membuat repositori lokal yang nantinya terdapat folder .git
+    + git remote add origin <link_name>
+        untuk menambahkan file/data ke Github/Gitlab 
+    + git add <file_name>
+        untuk menambahkan file/data pada repo yang dipilih
+    + git commit -m "<message_name>"
+        untuk menyimpan perubahan pada file/data
+    + git push origin master
+        untuk menambahkan file/data ke lokal server
+

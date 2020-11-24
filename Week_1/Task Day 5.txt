@@ -1,0 +1,9 @@
+Conditional, Looping, String, dan Function
+- Conditional
+There are types of Conditional, IF-ELSE, SWITCH-CASE, TERNARY-OPERATORS.
+- Looping
+There are three types of Conditional, FOR, WHILE, DO-WHILE.
+- String
+Mixing or combining STRINGS also
+- Function
+There are three types of DECLARATION, EXPRESSION, ARROW.

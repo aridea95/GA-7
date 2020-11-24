@@ -1,0 +1,16 @@
+Apa itu Back-End? Back-End adalah penghubung antara Server dengan Front-End 
+atau API (Application Program Interaction). API sendiri merupakan komunikasi
+dua arah yang terjadi antara server/database dengan Front-End. Berbeda dengan
+DevOps yang mengurus Server.
+Di Back-End ada beberapa tools yang dapat digunakan seperti NodeJS dan Visual 
+Studio Code. 
+Dalam proses pengerjaan Back-End ada beberapa hal yag perlu diperhatikan
+seperti Terminal dan IDE (Integrated Development Environment). Terminal 
+merupakan pusat dari data/file yang berada di server. Terminal digunakan untuk
+navigasi dan direktori pada data/file yang ada di server.
+
+Instalasi Git Bash
+Git Bash sama seperti Command Prompt. Bedanya Git Bash dapat menggunakan komando
+Linux dan Windows. Komando Command Prompt Linux tidak semuanya bisa digunakan pada
+Command Prompt Windows.
+Git Bash juga memudahkan akses dari Visual Studio Code ke Gitlab. 
